@@ -1,2 +1,2 @@
 This is file B
-This file has changed
+Change file B again
